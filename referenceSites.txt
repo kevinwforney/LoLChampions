@@ -1,0 +1,14 @@
+Icon:
+https://ddragon.leagueoflegends.com/cdn/12.23.1/img/champion/Aatrox.png
+
+Loading Screen:
+https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg
+
+Splash:
+https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg
+
+Spells:
+https://ddragon.leagueoflegends.com/cdn/12.23.1/img/spell/AatroxQ.png
+
+Passive:
+https://ddragon.leagueoflegends.com/cdn/12.23.1/img/passive/Aatrox_Passive.png
