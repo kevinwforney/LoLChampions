@@ -12,3 +12,9 @@ https://ddragon.leagueoflegends.com/cdn/12.23.1/img/spell/AatroxQ.png
 
 Passive:
 https://ddragon.leagueoflegends.com/cdn/12.23.1/img/passive/Aatrox_Passive.png
+
+Summoner by Name:
+https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/Nocturnyx?api_key=RGAPI-c6a20500-f4f4-4eb5-a7af-9e94a2143aa2
+
+Champion Mastery:
+https://na1.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/VRIy0CDICtkYF-A9WkHixQBvcFH1bIiBAEeP6f0fQtmGB5m0?api_key=RGAPI-c6a20500-f4f4-4eb5-a7af-9e94a2143aa2
