@@ -103,7 +103,7 @@
     "passive": {
       "name": "Deathbringer Stance",
       "description": "Periodically, Aatrox's next basic attack deals bonus physical damage and heals him, based on the target's max health.",
-      "image": "Aatrox_Passive"
+      "image": "Aatrox_Passive.png"
     }
   },
   {
